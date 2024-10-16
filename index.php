@@ -6,6 +6,6 @@
 	<title>Hola mundo</title>
 </head>
 <body>
-<?php echo "<h1>Hello world</h1>"?>
+<?php echo "<h1>Hello wold</h1>"?>
 </body>
 </html>
